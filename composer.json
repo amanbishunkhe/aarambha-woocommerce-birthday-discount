@@ -1,0 +1,10 @@
+{
+    "name": "rws/aarambha-woocommerce-birthday-discount",
+    "description": "Woocommerce birtday discount plugin",
+    "autoload": {
+        "psr-4": {
+             "AarambhaWooCommerceBirthdayDiscount\\": "includes/"
+        }
+    },
+    "require": {}
+}

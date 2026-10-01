@@ -1,0 +1,18 @@
+# Composer
+/vendor/
+composer.lock
+
+# WordPress
+.DS_Store
+Thumbs.db
+
+# IDE / editors
+.idea/
+.vscode/
+
+# OS files
+*.swp
+*.swo
+
+# Logs
+*.log
